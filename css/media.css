@@ -1,0 +1,373 @@
+@media(min-width:1673px){
+
+}
+@media(min-width:1440px) and (max-width:1672.98px){
+    /* welcome section start */
+    .top-content {
+        width: 70%;
+        margin-left: 193px;
+    }
+    .agency-img img {
+        width: 46%;
+        left: -135px;
+    }
+    /* welcome section end */
+
+
+
+}
+/* for laptop-1024px */
+@media(min-width:1200px) and (max-width:1439.98px){
+    /* banner section start */
+    .caption-custom h1 {
+       
+        font-size: 29px;
+    }
+    .caption-custom h3 {
+        font-size: 24px;
+    }
+    .caption-custom {
+        top: 15%;
+    }
+    /* banner section end */
+    /* welcome section start */
+    .top-content {
+        width: 70%;
+        margin-left: 193px;
+    }
+    .agency-img img {
+        width: 38%;
+        left: -42px;
+    }
+    
+    /* welcome section end */
+}
+@media(max-width:1199.98px) and (min-width:1024px){
+   /* banner section start */
+    .caption-custom h1 {
+        
+        font-size: 29px;
+    }
+    .caption-custom {
+        width: auto;
+        text-align: left;
+        top: 8%;
+    }
+    .caption-custom h3 {
+        font-size: 24px;
+    }
+    /* banner section end */
+
+    /* wellcome section start */
+    .top-content {
+        margin-left: 165px;
+    }
+    .agency-img img {
+        width: 35%;
+        left: -3px;
+    }
+
+    /* wellcome section end */
+   
+}
+/* for tablet-768px */
+@media(min-width:768px) and (max-width:1023.98px){
+    /* banner section start */
+    .caption-custom h1 {
+        font-size: 20px;
+    }
+    .caption-custom {
+        top: 3%;
+    }
+    .custom-indicator {
+        font-size: 17px;
+    }
+    .caption-custom h3 {
+
+        font-size: 17px;
+        /* display: inline; */
+    }
+    .caption-custom p {
+        width: 52%;
+        margin-bottom: 2px;
+    }
+    .carousel-caption span{
+        display: none;
+    }
+    .btn-custom {
+        font-size: 13px;
+    }
+    /* banner section end */
+
+    /* wellcome section star */
+    .top-content {
+        margin-bottom: 38px;
+        /* width: 65%; */
+        margin-left: 0;
+        text-align: center;
+    }
+    .custom-row{
+        justify-content: space-around!important;
+    }
+    .agency-img img {
+        width: 36%;
+        position: absolute;
+        bottom: -43px;
+        left: -10px;
+    }
+    /* wellcome section end */
+
+    /* doctors section start */
+    .doctor {
+        padding: 0px 0px;
+    }
+    .icon i {
+        font-size: 17px;
+        padding: 6px;
+        color: white;
+    }
+    .custom-padding-1 {
+        padding-right: 3px;
+        padding-left: 4px;
+    }
+    .icon {
+        position: absolute;
+        right: 30%;
+        transform: translateX(10px);
+    }
+    /* doctors section end */
+
+
+    /* service section start */
+    .service {
+        padding: 0px 0px;
+    }
+    .s-1 {
+        padding: 11px;
+    }
+    /* service section end */
+    /* meet section start */
+    .icon-2 {
+        font-size: 32px;
+        margin-right: 3px;
+    }
+    .icon-box h4 {
+        font-size: 18px;
+    }
+    .s-1 p {
+        font-size: 14px;
+    }
+    .s-1 a {
+        font-size: 14px;
+    }
+    .icon-3 {
+        font-size: 13px;
+    }
+    .doctor-content h3 {
+        font-size: 21px;
+    }
+    .doctor-content p {
+        font-size: 15px;
+    }
+    .doctor-content {
+        padding-bottom: 0px;
+        margin-bottom: 32px;
+    }
+    /* meet section end */
+
+    /* plan section start */
+    .top-header h2 {
+
+        font-size: 28px;
+    }
+    .top-header p {
+        font-size: 15px;
+    }
+    .price h1 {
+        font-size: 30px;
+    }
+    .price p {
+        margin-bottom: 0px;
+    }
+    .last-content {
+        padding: 15px 0px;
+    }
+    .last-content li {
+        font-size: 15px;
+    }
+    .last-content button {
+        margin-top: 10px;
+    
+    }
+    /* plan section end */
+    /* footer section start */
+    .dental img {
+        margin-bottom: 20px;
+    }
+    .dental p {
+        font-size: 14px;
+        width: 75%;
+    }
+    .dental-1 {
+        margin-top: 17px;
+    }
+    .dental-1 i {
+        font-size: 32px;
+    }
+    .dental-1 li {
+        font-size: 15px;
+    }
+    .news h2 {
+        margin-bottom: 20px;
+    }
+    .news p {
+        font-size: 14px;
+    }
+    .input {
+        margin: 46px 0px;
+    }
+    .follow h3 {
+        margin-bottom: 20px;
+    }
+    .follow i {
+        font-size: 18px;
+    }
+    .input input {
+        padding-left: 23px;
+        padding-right: 35px;
+    }
+    .input button {
+        padding: 8px;
+        font-size: 14px;
+        /* vertical-align: middle; */
+    }
+    footer {
+
+        padding: 70px 0px;
+    }
+
+
+
+
+
+}
+
+/* for mobile l-425px */
+@media(min-width:576px) and (max-width:767.98px){
+    p{
+        font-size: 14px;
+    }
+    
+    /* banner section start */
+    .caption-custom {
+        top: 0;
+        left: 9%;
+    }
+    .carousel-caption h3{
+        font-size: 16px;
+    }
+    .caption-custom h1 {
+        font-size: 17px;
+    }
+    .caption-custom p {
+        width: 60%;
+        padding-left: 0px;
+        padding-bottom: 0px;
+        margin-bottom: 2px;
+    }
+    .carousel-caption span{
+
+        display: none;
+
+    }
+    .btn-custom {
+        font-size: 13px;
+    }    
+    /* banner section end */
+
+    /* welcome section start */
+    .top-content h1 {
+        font-weight: 700;
+        margin-bottom: 20px;
+        font-size: 30px;
+    }
+    .top-content p{
+
+    }
+    .top-content {
+        margin-left: 0;
+        text-align: center;
+    }
+    .one-content i {
+        font-size: 30px;
+    }
+    .one-content h4{
+        font-size: 19px;
+    }
+    .two-content i{
+        font-size: 30px;
+    }
+    .two-content h4{
+        font-size: 19px;
+    }
+    .three-content i{
+        font-size: 30px;
+    }
+    .three-content h4{
+        font-size: 19px;
+    }
+    .four-content i{
+        font-size: 30px;
+    }
+    .four-content h4{
+        font-size: 19px;
+    }
+    /* welcome section end */
+
+    /* doctor section start */
+    .doctor {
+        padding: 53px 0px;
+    }
+    .meet h1 {
+        font-size: 32px;
+    }
+    .meet i {
+        font-size: 35px;
+    }
+    .doctor-content h3 {
+        font-size: 20px;
+    }
+    .item-1{
+        margin-top: 60px;
+    }
+    .icon {
+        top: 62%;
+        right: 24%;
+    }
+    .icon i {
+        font-size: 14px;
+    }
+    /* doctor section end */
+
+    /* footer section  start */
+    .input input {
+        padding-left: 10px;
+        padding-right: 17px;
+        width: 65%;
+    }
+    /* footer section end */
+
+}
+/* for mobile m-375px */
+@media(min-width:426px) and (max-width:575.98px){
+
+}
+@media(min-width:375px) and (max-width:424.98px){
+
+}
+/* For mobile s-320px */
+@media(min-width:320px) and (max-width:374.98px){
+
+}
+ /* Extra small devices (portrait phones, less than 576px)
+ No media query for `xs` since this is the default in Bootstrap */
